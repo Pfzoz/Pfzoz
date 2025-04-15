@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Pfzoz
 - 👀 I’m interested in Deep Learning, Procedural Content Generation, Computer Graphics and Software Engineering in general.
 - 🌱 I’m currently a full stack developer at MyFood Site, working with NextJS, Spring, AWS and many other web tools. 
-- 🎓 I'm a current ongoing undergraduate of Computer Science in the Western State University of Parana (UNIOESTE)
+- 🎓 Compuer Science Bachelor's degree undegraduate in the Western State University of Parana (UNIOESTE)
 - 💞️ I’m looking to collaborate on nothing on the moment but feel free to chat by :/
 - 📫 How to reach me pedrozoz.sizaan@gmail.com.
 
